@@ -1,8 +1,8 @@
 hits = 0
 strikes = 0
 userAnswer = ""
-questions = ["What MLB Team Is In Tampa Bay?", "What MLB Team Is In Arlington?", "What MLB Team Is In Baltimore?", "What MLB Team Is In St. Louis?","What MLB Team Is In Detroit"]
-answers = ["rays", "rangers", "orioles", "cardinals","tigers"]
+questions = ["What MLB Team Is In Tampa Bay?", "What MLB Team Is In Arlington?", "What MLB Team Is In Baltimore?", "What MLB Team Is In St. Louis?","What MLB Team Is In Cincinnati"]
+answers = ["rays", "rangers", "orioles", "cardinals","reds"]
 numQuestions = len(questions) - 1
 currentQuestion = 0
 
