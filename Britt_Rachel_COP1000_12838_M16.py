@@ -94,4 +94,4 @@ while True:
         NameThePlayer()
 
     else:
-        print("Please enter either 1 or 2")
+        print("Please enter either 1 or 2\n")
