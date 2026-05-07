@@ -7,7 +7,7 @@ def NameTheTeam():
     numQuestions = len(questions) - 1 
     currentQuestion = 0
     
-    print("You Chose Name The Team!")
+    print("You Chose Name the Team!")
     print("Answer the questions.")
     print("3 ‘Strikes’ and you’re out! \n")
 
@@ -49,7 +49,7 @@ def NameThePlayer():
     numQuestions = len(questions) - 1 
     currentQuestion = 0
     
-    print("You chose Name The Player!")
+    print("You chose Name the Player!")
     print("Answer the questions.")
     print("3 ‘Strikes’ and you’re out! \n")
 
